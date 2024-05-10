@@ -116,7 +116,7 @@ O projeto inclui os seguintes scripts:
 
 Este projeto foi desenvolvido por uma equipe de 5 pessoas:
 
-- [Antônio Santana](https://github.com/AntonioSsantana)
+- [Antonio Santana](https://github.com/antonioclp)
 - [Italo Lacerda](https://github.com/ItaloLacerda)
 - [Ayanara Nathane](https://github.com/ayanara)
 - [Renan Storrer](https://github.com/Renan-Storrer)
